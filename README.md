@@ -9,6 +9,9 @@
 
 Une société X souhaite avoir un super site web pour représenter ses produits dans le net afin de pouvoir élargir son business. Elle nous a engagé pour créer un site à partir du *template* suivant:
 
+![image](https://user-images.githubusercontent.com/68474669/92252972-81f90900-eebe-11ea-9c17-92de598cf5b1.png)
+
+
 **Cahier de charges:**
 On nous a demander:
  - D'intégrer ce template avec HTML5 et CSS3
